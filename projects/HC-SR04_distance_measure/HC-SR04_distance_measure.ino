@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 #include <Buzzer.h>
-#define buzzer_pin 11
+#define buzzer_pin 12
 Buzzer buzzer(buzzer_pin);
 #define echo_pin  11
 #define trigger_pin 10
